@@ -1,0 +1,11 @@
+D:\Projetos .NET\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.0\AbstractFactory.exe
+D:\Projetos .NET\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.0\AbstractFactory.deps.json
+D:\Projetos .NET\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.0\AbstractFactory.runtimeconfig.json
+D:\Projetos .NET\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.0\AbstractFactory.runtimeconfig.dev.json
+D:\Projetos .NET\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.0\AbstractFactory.dll
+D:\Projetos .NET\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.0\AbstractFactory.pdb
+D:\Projetos .NET\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.0\AbstractFactory.csprojAssemblyReference.cache
+D:\Projetos .NET\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Projetos .NET\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.0\AbstractFactory.AssemblyInfo.cs
+D:\Projetos .NET\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.0\AbstractFactory.dll
+D:\Projetos .NET\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.0\AbstractFactory.pdb
